@@ -1,0 +1,6 @@
+{
+  "name": "LocalSeller AI",
+  "description": "AI-powered product listings and marketing generator for small business owners, Instagram sellers, and handmade creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
